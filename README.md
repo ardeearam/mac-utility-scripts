@@ -1,0 +1,1 @@
+These are some personal utility scripts that I use for my Macbook. This is useful to me and I do not guarantee in any way that it will be useful to anyone else.
