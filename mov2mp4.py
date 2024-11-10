@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#This script converts MOV files (direct output of Mac video screenshot) into MP4 using ffmpeg.
+
 import sys
 import subprocess
 
